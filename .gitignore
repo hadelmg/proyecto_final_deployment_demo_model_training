@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de construcción y distribución
+*.egg-info/
+dist/
+build/
+
+# Archivos de datos
+notebook/
+
+# Archivos de log y temporales
+*.log
+*.tmp
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db

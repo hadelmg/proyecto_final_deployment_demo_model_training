@@ -26,8 +26,8 @@ project_name/
 │   │   ├── data_processor.py   # Preprocesamiento de datos
 │   │   └── data_splitter.py    # División en conjuntos de entrenamiento/validación
 │   ├── model/              # Código relacionado con el modelo
-│   │   └── main.py             # Entrenamiento e inferencia del modelo
-│   └── utils/              # Funciones auxiliares (opcional)
+│   ├── main.py             # Entrenamiento e inferencia del modelo
+│   └── utils/              # Funciones auxiliares
 │
 ├── .gitignore              # Archivos y carpetas ignorados por Git
 ├── LICENSE                 # Licencia del proyecto
